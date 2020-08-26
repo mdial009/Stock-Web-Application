@@ -32,7 +32,8 @@ Streamlit
 * 4: Input stock symbol(ex:AAPL)
 
 ## What I Learned
-* Use Streamlit to display stock data on a local host. Streamlit is an open-source Python library that makes it easy to build beautiful custom web-apps for machine learning and data science.
+* Use Streamlit to display stock data on a local host. 
+* Streamlit is an open-source Python library that makes it easy to build beautiful custom web-apps for machine learning and data science.
 
 
 ## Acknowledgments
