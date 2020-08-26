@@ -1,6 +1,6 @@
 # Description: This is a stock market dashboard to show some charts and data on some stock
 
-# Import Libraries
+# Import LibrariesXP
 import streamlit as st
 import pandas as pd
 import time
