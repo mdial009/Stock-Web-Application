@@ -25,11 +25,17 @@ Numpy
 Streamlit
 * https://pypi.org/project/streamlit/x
 
+Image
+* from PIL import Image
+
 ### Installing/Using
 * 1: Clone The Repo
 * 2: Open Termianal run streamlit run [filename] (stock.py)
 * 3: Input stock start year/end year(Year-Month-Day)
 * 4: Input stock symbol(ex:AAPL)
+
+![alt text](https://github.com/mdial009/Stock-Web-Application/blob/master/StockWebApplication.png?raw=true)
+
 
 ## What I Learned
 * Use Streamlit to display stock data on a local host. 
