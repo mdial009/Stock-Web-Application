@@ -1,6 +1,6 @@
 # Description: This is a stock market dashboard to show some charts and data on some stock
 
-# Import LibrariesXP
+# Import Libraries
 import streamlit as st
 import pandas as pd
 import time
@@ -61,8 +61,6 @@ def get_input():
     return start_date, end_date, stock_symbol
 
 # Create a function to get a company name
-
-
 def get_company_name(symbol):
     if symbol == "AMZN":
         return "Amazon"
@@ -76,8 +74,6 @@ def get_company_name(symbol):
         "None"
 
 # Create a function to get the proper company data and the proper timeframe from the user start date to the user end date
-
-
 def get_data(symbol, start, end):
     # Load the data
     if symbol.upper() == "AMZN":
